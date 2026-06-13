@@ -1,6 +1,7 @@
-streamlit==1.35.0
-pandas==2.2.2
-folium==0.16.0
-streamlit-folium==0.20.0
-plotly==5.22.0
-requests==2.31.0
+streamlit>=1.39
+pandas>=2.2.3
+folium>=0.17
+streamlit-folium>=0.23
+plotly>=5.24
+requests>=2.32
+numpy>=1.26
