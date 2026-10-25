@@ -1,0 +1,1 @@
+Proyecto para la asignatura de Visualización de Datos, en el que se ha desarrollado una página web utilizando Streamlit donde poder visualizar datos demográficos de la província de Castellón a lo largo del tiempo.
